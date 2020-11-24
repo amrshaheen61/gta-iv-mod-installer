@@ -1,0 +1,4 @@
+--Executed GIMI:9:44:43 AM 02/03/2020
+ERROR 153 - This mod is not compatible with GIMI, therefore it can not be installed. 
+
+NOTE: If it's a vehicle mod then it must have the required WFT and WTD files and they must be named correctly according to one of the game's vehicles (i.e. voodoo.WFT, voodoo.WTD).
