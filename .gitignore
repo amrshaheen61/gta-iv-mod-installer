@@ -3,5 +3,5 @@
 *.html linguist-detectable=false
 *.css linguist-detectable=false
 *.js linguist-detectable=false
-*.vlc linguist-detectable=false
+*.vcl linguist-detectable=false
 *.python linguist-detectable=false
