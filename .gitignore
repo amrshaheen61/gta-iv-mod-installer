@@ -1,7 +1,0 @@
-
-*.lua linguist-detectable=true
-*.html linguist-detectable=false
-*.css linguist-detectable=false
-*.js linguist-detectable=false
-*.vcl linguist-detectable=false
-*.python linguist-detectable=false
