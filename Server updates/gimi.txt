@@ -2,3 +2,8 @@ GIMI_UpdateSite = "raw.githubusercontent.com/amrshaheen61/GTA-IV-Mod-Installer/m
 GIMI_UpdateFile = "gta iv mod installer v1.3.zip"
 GIMI_UpdateType = "file"
 GIMI_UpdateVer = "1.4"
+
+
+Dialog.Message("Notice", "hi", MB_OK, MB_ICONINFORMATION, MB_DEFBUTTON1);
+
+
