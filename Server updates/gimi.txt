@@ -1,4 +1,4 @@
 GIMI_UpdateSite = "raw.githubusercontent.com/amrshaheen61/GTA-IV-Mod-Installer/master/Server%20updates/"
 GIMI_UpdateFile = "gta iv mod installer v1.3.zip"
 GIMI_UpdateType = "file"
-GIMI_UpdateVer = "1.3"
+GIMI_UpdateVer = "1.4"
